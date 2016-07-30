@@ -4,6 +4,8 @@ first app
 
 # Overview
 
+[lucerne](http://eudoxia.me/lucerne/docs/overview.html)
+
 # Usage
 
 ````
